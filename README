@@ -11,7 +11,6 @@ UPDATED: 2023-04-27
 1.1 TOC
 1.2 SPACES
 2 HOW
-3 WHY
 
 
 
@@ -26,7 +25,7 @@ so people can use find to go to the table of contents.
 
 *1.2 SPACES
 
-1 between title and whatever and any other info u wanna give
+1 between title and other info you want to declare,
 1 between heading and content,
 2 between bottom of content and next title,
 3 underneath and above table of content.
@@ -34,10 +33,5 @@ so people can use find to go to the table of contents.
 
 *2 HOW
 
-Imagine you need to go to STANDARD; you use find (sometimes ctrl-f) and type
-the number before STANDARD but put an * before it. 
-
-
-*3 WHY
-
-It looks snazzy no matter the width of the document.
+You can use find (sometimes ctrl-f) and type
+the number before STANDARD with an * before it.
