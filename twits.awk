@@ -1,3 +1,6 @@
+#TODO: recognize headers with dots and extra numbers
+# /^\*[0-9]+(\.[0-9]+)?
+
 /^\*[0-9]+ / {
 	if ($0 ~ /^\*[0-9]+ [A-Z]/) {
 		if (NR > 1 && !/^\s*$/) {
