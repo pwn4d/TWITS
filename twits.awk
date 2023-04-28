@@ -1,3 +1,5 @@
+#!/usr/bin/awk -f
+
 #TODO: recognize headers with dots and extra numbers
 # /^\*[0-9]+(\.[0-9]+)?
 
