@@ -2,7 +2,7 @@ TWITS
 The Width Ignoring Text Standard
 
 RELEASE: 2023-04-27
-UPDATED: 2023-04-27
+UPDATED: 2023-04-28
 
 
 
@@ -11,6 +11,8 @@ UPDATED: 2023-04-27
 1.1 TOC
 1.2 SPACES
 2 HOW
+3 SOFTWARE
+4 TODO
 
 
 
@@ -35,3 +37,18 @@ so people can use find to go to the table of contents.
 
 You can use find (sometimes ctrl-f) and type
 the number before STANDARD with an * before it.
+
+
+*3 SOFTWARE
+
+I am currently making an awk file called "twits" which checks
+if the file you provide it has any UNCERTIFIED TWITS THINGS.
+
+
+*4 TODO
+
+Finish twits to point where it matches standard,
+think about if standard is even the correct word for this,
+make an examples folder to show people why my shit isn't
+complete suck.
+
